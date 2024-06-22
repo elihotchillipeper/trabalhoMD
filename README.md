@@ -12,6 +12,8 @@ Seja em projetos pessoais, nosso software oferece as ferramentas necessárias pa
 
 # Instalação
 
+![tela_inicial](/ImagensGit/menuopcao1.png)
+
 ### Requisitos do Sistema:
 
 Verifique se seu sistema atende aos requisitos mínimos para a instalação:
