@@ -12,8 +12,6 @@ Seja em projetos pessoais, nosso software oferece as ferramentas necessárias pa
 
 # Instalação
 
-![tela_inicial](/ImagensGit/menuopcao1.png)
-
 ### Requisitos do Sistema:
 
 Verifique se seu sistema atende aos requisitos mínimos para a instalação:
@@ -36,6 +34,8 @@ Para instalar o software, siga estes passos simples:
 5. **Inicialização:** Após a conclusão, o software estará pronto para uso imediato.
 
 # Uso
+
+[tela_inicial](/Images/menuopcoes.png)
 
 ### Criando uma Nova Tarefa
 
