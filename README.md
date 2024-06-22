@@ -42,6 +42,8 @@ Para instalar o software, siga estes passos simples:
 1. **Criar Nova Tarefa:**
    - Clique no botão "Nova Tarefa".
    - Insira um título para a tarefa e uma descrição.
+  
+[tela_escolhas](/Images/menuopcao1.png)
 
 ### Organizando Tarefas
 
